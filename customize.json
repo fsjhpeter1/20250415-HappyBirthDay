@@ -1,0 +1,31 @@
+{
+  "greeting": "妳好啊",
+  "name": "綺",
+  "greetingText": "今天是妳的生日",
+  "wishText": "雖然我們沒有認識很久，也是不經意間認識的，從一開始25生日那天，我從25那邊知道妳是25的妹妹，到後面社團課………………但是妳每次都會陪我聊天，搞140(?，也會互相抱怨(?    而且妳訊息有時候都回好快壓",
+  "imagePath": "img/lydia2.png",
+  "text1": "今天是妳的生日啊!!! :D",
+  "textInChatBox": "非常非常非常誠摯的祝你生日快樂！！！很多很多的快樂…",
+  "sendButtonLabel": "發送",
+  "text2": "我想給你一個驚喜",
+  "text3": "我認真的想了很久",
+  "text4": "我體認到，我想做一些",
+  "text4Adjective": "特殊的事",
+  "text5Entry": "因為，",
+  "text5Content": "你對我來說，很特殊(08不是要告白)",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "生日快樂壓!",
+  "outroText": "我希望妳喜歡這個小小的驚喜!",
+  "replayText": "如果你喜歡的話，可以再看一次喔!或…",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
+
